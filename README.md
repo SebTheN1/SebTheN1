@@ -12,19 +12,13 @@ I'm Sebastian Guerra, a student and technology enthusiast passionate about softw
 
 <br>
 
-  
+🔭 I'm working on something cool 😉
 
+👯 I'm really looking forward to collaborating on Python projects.
 
- -  🔭 I’m currently working on something cool 😉
+🌱 I'm learning about JavaScript development.
 
-- 👯 I’m looking forward to collaborate on python projects.
-
-- 🌱 Learning about Computer Vision and Machine Learning stuff
-
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-
+💬 Ask me anything, I'd be happy to help.
 <br>
  
 <br>
