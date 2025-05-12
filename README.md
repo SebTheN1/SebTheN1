@@ -26,10 +26,6 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 
 <br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
- 
  
 <br>
 </p>
