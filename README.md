@@ -8,7 +8,7 @@
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+I'm Sebastian Guerra, a student and technology enthusiast passionate about software development. I'm constantly exploring new technologies and tackling challenges, and I thrive in the dynamic world of technology. Focused on collaboration and community support, I strive to inspire others to push their limits and achieve excellence. Let's create innovative solutions together!
 
 <br>
 
