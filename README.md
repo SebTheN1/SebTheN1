@@ -5,7 +5,6 @@
 <h3 align="center">Stack JavaScript Developer | logistics engineer | Data Analysis </h3>
 
 <p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
